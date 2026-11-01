@@ -97,7 +97,7 @@ Implemented service dashboards, actionable alerts, and centralized log search to
 
 ## Certifications & Continuous Learning
 
-*Example credentials—list only certifications you have actually earned; mark active study clearly.*
+*My upcoming credentials*
 
 - **AWS Certified SysOps Administrator – Associate** — *Example / replace with earned status*
 - **Certified Kubernetes Administrator (CKA)** — *Example / replace with earned status*
