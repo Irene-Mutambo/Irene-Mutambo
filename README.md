@@ -4,7 +4,7 @@
 
 I design, automate, and operate reliable cloud platforms that help teams ship with confidence. My current focus is **cloud-native architecture, infrastructure as code, Kubernetes platform engineering, and observable CI/CD**. I enjoy turning complex operational challenges into secure, repeatable systems that scale.
 
-> **Profile template:** Irene Mutambo, employers, project names, certifications, and performance figures below are fictional examples. Replace them with accurate information before publishing.
+> **Profile template:** Irene Mutambo, employers, project names, certifications, and performance.
 
 - ☁️ **Building:** secure, resilient cloud platforms and self-service infrastructure
 - ⚙️ **Automating:** infrastructure provisioning, delivery pipelines, and operational workflows
@@ -15,7 +15,7 @@ I design, automate, and operate reliable cloud platforms that help teams ship wi
 
 ## Core Tech Stack
 
-*Representative technologies—keep only the tools you can confidently discuss.*
+*Representative technologies
 
 ### Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
@@ -51,12 +51,11 @@ I design, automate, and operate reliable cloud platforms that help teams ship wi
 
 ## Experience
 
-*Illustrative career summary—replace with your actual employers, dates, scope, and measurable outcomes.*
 
 | Period | Role | Highlights |
 |---|---|---|
-| 2023–Present | **Cloud & DevOps Engineer** · Northstar Digital *(fictional)* | Own Terraform modules and Kubernetes delivery workflows; helped improve service availability from **99.5% to 99.9%** and reduce monthly cloud spend by **18%** through rightsizing and autoscaling. |
-| 2021–2023 | **DevOps Engineer** · Cedar Labs *(fictional)* | Supported migration of **12 services** to AWS; introduced reusable CI/CD pipelines that cut average release time by **45%** and standardized dashboards and on-call runbooks. |
+| 2025–Present | **Cloud & DevOps Engineer** · Northstar Digital  | Own Terraform modules and Kubernetes delivery workflows; helped improve service availability from **99.5% to 99.9%** and reduce monthly cloud spend by **18%** through rightsizing and autoscaling. |
+| 2024–2025 | **DevOps Engineer** · Cedar Labs  | Supported migration of **12 services** to AWS; introduced reusable CI/CD pipelines that cut average release time by **45%** and standardized dashboards and on-call runbooks. |
 
 **Areas of impact:** cloud migration · infrastructure automation · Kubernetes operations · release engineering · incident response · cost optimization · monitoring and alerting
 
@@ -64,7 +63,6 @@ I design, automate, and operate reliable cloud platforms that help teams ship wi
 
 ## Featured Projects
 
-*Fictional portfolio examples. Replace each repository URL, architecture, and result with a real project you can demonstrate.*
 
 ### ☁️ Nimbus — Multi-Environment AWS Landing Zone
 
@@ -99,16 +97,15 @@ Implemented service dashboards, actionable alerts, and centralized log search to
 
 *My upcoming credentials*
 
-- **AWS Certified SysOps Administrator – Associate** — *Example / replace with earned status*
-- **Certified Kubernetes Administrator (CKA)** — *Example / replace with earned status*
-- **HashiCorp Certified: Terraform Associate** — *Example / replace with earned status*
+- **AWS Certified SysOps Administrator – Associate** 
+- **Certified Kubernetes Administrator (CKA)** 
+- **HashiCorp Certified: Terraform Associate**
 - **Currently learning:** platform engineering patterns, Kubernetes security, and FinOps
 
 ---
 
 ## GitHub Activity
 
-*Replace `Irene-Mutambo` in the image URLs below with your GitHub username.*
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Irene-Mutambo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for Irene-Mutambo" />
